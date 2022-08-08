@@ -1,0 +1,41 @@
+{
+  "name": "OutSider Kids",
+  "symbol": "OK",
+  "image": "5.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "5.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "GdfhQ57feCEokK3H1ebXrfU3UdT19FjC8w5whamjiotU",
+        "share": 100
+      }
+    ]
+  },
+  "description": "This is OutSider Kids NFTs collection",
+  "seller_fee_basis_points": 500,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "star-eyes"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "triangle-mouth"
+    },
+    {
+      "trait_type": "face",
+      "value": "teal-face"
+    }
+  ],
+  "collection": {}
+}
